@@ -25,4 +25,4 @@ function iLoveTheBeatles (n){
   while (number <= 7);
   return array;
   }
-}
+
