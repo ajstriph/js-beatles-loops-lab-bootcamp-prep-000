@@ -12,5 +12,5 @@ function johnLennonFacts (array){
   while (i<johnLennonFacts.length){
     yokoOno.push(`johnLennonFacts[i]!!!`);
   }
-  return array;
+  return yokoOno;
 }
